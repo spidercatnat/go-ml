@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/spidercatnat/go-ml/handling-data/read-csv/functions"
+	"github.com/spidercatnat/go-ml/01-handling-data/functions"
 )
 
 // Using the functions defined below, load CSV and read out all records
